@@ -1,4 +1,4 @@
-# Embedded Systems and Artificial Intelligence Programming
+# Embedded Systems and AI Programming
 
 ## library
 
